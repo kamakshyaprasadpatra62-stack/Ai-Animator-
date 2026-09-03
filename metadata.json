@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Animator",
+  "description": "Convert static images to animated video clips with AI prompts and motion generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
